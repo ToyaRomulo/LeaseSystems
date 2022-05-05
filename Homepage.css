@@ -7,13 +7,31 @@ body {
 img {
     height: 500px;
     margin: 2%;
-    align-items: center;
-    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border:        0px solid #000000;
+    border-radius: 100px;
+    box-shadow:    0 1px #444444;
+    
 }
 
 
 p {
     text-align: center;
+    text
 }
 
-
+button{
+    background:    #ffffff;
+    border:        0px solid #000000;
+    border-radius: 1000px;
+    box-shadow:    0 1px #444444;
+    padding:       20px 45px;
+    color:         #fd7e14;
+    display:       inline-block;
+    font:          normal bold 20px/1 "Open Sans", sans-serif;
+    text-align:    center;
+    align-items: center;
+    margin-left: 40%;
+    margin-right: 30%;
+}
