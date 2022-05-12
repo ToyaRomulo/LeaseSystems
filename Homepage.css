@@ -1,16 +1,18 @@
 body {
     background-color:#fd7e14;
+    background: rgb(247,169,0);
+    background: linear-gradient(0deg, rgba(247,169,0,1) 0%, rgba(253,126,20,1) 100%); 
 }
 
 
 
 img {
-    height: 500px;
+    height: 200px;
     margin: 2%;
-    margin-left: 30%;
+    margin-left: 24%;
     margin-right: 30%;
     border:        0px solid #000000;
-    border-radius: 100px;
+    border-radius: 50px;
     box-shadow:    0 1px #444444;
     
 }
@@ -21,7 +23,8 @@ p {
     text
 }
 
-button{
+.botao {
+
     background:    #ffffff;
     border:        0px solid #000000;
     border-radius: 1000px;
@@ -32,6 +35,6 @@ button{
     font:          normal bold 20px/1 "Open Sans", sans-serif;
     text-align:    center;
     align-items: center;
-    margin-left: 40%;
-    margin-right: 30%;
+    margin-left: 26%;
+    margin-right: 40%;
 }
