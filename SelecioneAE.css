@@ -1,0 +1,54 @@
+.botao {
+  
+background:    #ffffff;
+border-radius: 12px;
+box-shadow:    0 1px #444444;
+padding:       30px 35px;
+color:         black;
+display:       inline-block;
+font:          normal bold 28px/1 "Open Sans", sans-serif;
+text-align:    center;
+margin-left: 18%;
+margin-right 18%;
+margin-top: 40%;
+
+position:relative; 
+ top:33%;
+left:33%;
+transform: translate(-50%, -20%);
+}
+
+.botao2 { 
+  
+background:    #ffffff;
+border-radius: 12px;
+box-shadow:    0 1px #444444;
+padding:       30px 35px;
+color:         black ;
+display:       inline-block;
+font:          normal bold 28px/1 "Open Sans", sans-serif;
+text-align:    center;
+margin-left: 18%;
+margin-right 18%;
+
+position:relative; 
+ top:33%;
+left:33%;
+transform: translate(-50%, 80%);
+
+  
+}
+
+
+
+
+ 
+
+
+  
+
+
+body {
+  background-color:#fd7e14;
+  l
+}
