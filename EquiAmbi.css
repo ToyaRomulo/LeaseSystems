@@ -8,6 +8,58 @@ body {
   margin: 0;
   padding: 0;
   
+}
 
+.botao {
+  
+background:    #ffffff;
+border-radius: 12px;
+box-shadow:    0 1px #444444;
+padding:       30px 35px;
+color:         black ;
+display:       inline-block;
+font:          normal bold 28px/1 "Open Sans", sans-serif;
+text-align:    center;
+margin-left: 18%;
+margin-right 18%;
+margin: relative;
+
+margin-top: 3px;
+position:relative; 
+ top:3%;
+left:33%;
+transform: translate(-50%, 80%);
+
+text-decoration: none;
+color: black;
   
 }
+
+.equi {
+  margin-top: 90px;
+  text-align: center;
+  margin: 30px;
+}
+
+.ambi {
+  margin-top: 90px;
+  margin: 30px;
+}
+
+.aula {
+  margin-top: 20px;
+  margin: 30px;
+}
+
+.dia {
+  margin-top: 20px;
+  margin: 30px;
+}
+
+p {
+ color: white;
+ font-size: 60px;
+ text-align: center;
+ margin-top: 10px;
+}
+
