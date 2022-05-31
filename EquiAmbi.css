@@ -12,14 +12,16 @@ body {
 
 .botao {
   
-background:    #ffffff;
-border-radius: 12px;
-box-shadow:    0 1px #444444;
-padding:       30px 35px;
-color:         black ;
-display:       inline-block;
-font:          normal bold 28px/1 "Open Sans", sans-serif;
-text-align:    center;
+  background  #ffffff;
+  background:    linear-gradient(#ffffff, #f7a900);
+  border-radius: 100px;
+  box-shadow:    0 3px #ffffff;
+  padding:       20px 45px;
+  color:         #ffffff;
+  display:       inline-block;
+  font:          normal bold 28px/1 "Open Sans", sans-serif;
+  text-align:    center;
+
 margin-left: 18%;
 margin-right 18%;
 margin: relative;
@@ -31,7 +33,7 @@ left:33%;
 transform: translate(-50%, 80%);
 
 text-decoration: none;
-color: black;
+color: white;
   
 }
 
@@ -58,8 +60,9 @@ color: black;
 
 p {
  color: white;
- font-size: 60px;
+ font-size: 50px;
  text-align: center;
  margin-top: 10px;
+ margin: 5px;
 }
 
