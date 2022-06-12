@@ -15,11 +15,19 @@ body {
    text-align: center;
    font-size: 40px;
    color: white;
-   
-  margin-left: 16%;
-   margin-right: 20%;
    margin-top: 30%;
+   text-shadow:    0 1px black;
+   margin: 50px;
   
+  }
+
+  .texto {
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin: 20px;
+
+
   }
    
   .botao {

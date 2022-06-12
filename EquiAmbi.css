@@ -37,6 +37,32 @@ color: white;
   
 }
 
+.faq {
+   background  #ffffff;
+  background:    linear-gradient(#ffffff, #f7a900);
+  border-radius: 100px;
+  box-shadow:    0 3px #ffffff;
+  padding:       15px 20px;
+  color:         #ffffff;
+  display:       inline-block;
+  font:          normal bold 28px/1 "Open Sans", sans-serif;
+  text-align:    center;
+
+margin-left: 18%;
+margin-right 18%;
+margin: relative;
+
+margin-top: 3px;
+position:relative; 
+ top:3%;
+left:33%;
+transform: translate(-170px, 100px);
+
+text-decoration: none;
+color: white;
+
+}
+
 .equi {
   margin-top: 90px;
   text-align: center;
@@ -64,5 +90,6 @@ p {
  text-align: center;
  margin-top: 10px;
  margin: 5px;
+   text-shadow:    0 1px black;
 }
 

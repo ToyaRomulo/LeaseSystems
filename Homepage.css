@@ -2,7 +2,7 @@ body {
     background-color:#fd7e14;
     background: rgb(247,169,0);
     background: linear-gradient(0deg, rgba(247,169,0,1) 0%, rgba(253,126,20,1) 100%); 
-    height: 700px;
+    height: 800px;
     
 }
 
@@ -27,8 +27,9 @@ p {
     text-align: center;
     font-size: 23px;
     padding: 3px;
-    text-shadow:    0 1px #ffffff;
+    text-shadow:    0 1px black;
     margin: 5px;
+    color: #ffffff;
 
 }
 
@@ -64,7 +65,7 @@ text-decoration: none;
     background:    linear-gradient(#ffffff, #f7a900);
     border-radius: 100px;
     box-shadow:    0 3px #ffffff;
-    padding:       20px 45px;
+    padding:       20px 85px;
     color:         #ffffff;
     display:       inline-block;
     font:          normal bold 28px/1 "Open Sans", sans-serif;
